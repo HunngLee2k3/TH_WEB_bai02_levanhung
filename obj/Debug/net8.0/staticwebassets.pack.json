@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Bai2\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BAI2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BAI2.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\KFC_logo.png",
+      "PackagePath": "staticwebassets\\images\\KFC_logo.png"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\Remove-bg.ai_1710853436178.png",
+      "PackagePath": "staticwebassets\\images\\Remove-bg.ai_1710853436178.png"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\banner-1.png",
+      "PackagePath": "staticwebassets\\images\\banner-1.png"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\comtamlogo.png",
+      "PackagePath": "staticwebassets\\images\\comtamlogo.png"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\download.jpeg",
+      "PackagePath": "staticwebassets\\images\\download.jpeg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\kfc_history_pc.jpg",
+      "PackagePath": "staticwebassets\\images\\kfc_history_pc.jpg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\logochicken.jpg",
+      "PackagePath": "staticwebassets\\images\\logochicken.jpg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\products\\1721_sleeky_kh____m__i_body_500ml.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1721_sleeky_kh____m__i_body_500ml.jpg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\products\\2138_RoyalCanin-ClubProAdult20kg.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2138_RoyalCanin-ClubProAdult20kg.jpg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\products\\2577_tui_pet_phi_hanh_gia_pet_city2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2577_tui_pet_phi_hanh_gia_pet_city2.jpg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\products\\2577_tui_pet_phi_hanh_gia_pet_city3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2577_tui_pet_phi_hanh_gia_pet_city3.jpg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\products\\2577_tui_pet_phi_hanh_gia_petcity_1_.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2577_tui_pet_phi_hanh_gia_petcity_1_.jpg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\products\\2953_cay_meo_leo_afp_nature_cozy_petcity_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\2953_cay_meo_leo_afp_nature_cozy_petcity_1.jpg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\products\\303_qua_dau.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\303_qua_dau.jpg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\products\\3152_chic_cham_dau_tam_cam_petcity.png",
+      "PackagePath": "staticwebassets\\images\\products\\3152_chic_cham_dau_tam_cam_petcity.png"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\products\\3153_chic_cham_dau_tam_do_petcity.png",
+      "PackagePath": "staticwebassets\\images\\products\\3153_chic_cham_dau_tam_do_petcity.png"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\products\\3288_ao_t_ao_lien_quan_petcity_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3288_ao_t_ao_lien_quan_petcity_1.jpg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\products\\3288_ao_t_ao_lien_quan_petcity_2.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3288_ao_t_ao_lien_quan_petcity_2.jpg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\products\\3288_ao_t_ao_lien_quan_petcity_3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3288_ao_t_ao_lien_quan_petcity_3.jpg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\products\\3392_khay_ve_sinh_cho_cho_xanh_petcity_1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3392_khay_ve_sinh_cho_cho_xanh_petcity_1.jpg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\products\\3409_makar_toilet_cat_kakao_petcity.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\3409_makar_toilet_cat_kakao_petcity.jpg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\products\\496_2_1376385268_maysaycs2400.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\496_2_1376385268_maysaycs2400.jpg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\products\\996_furminator_cho_trung_long_dai_petcity.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\996_furminator_cho_trung_long_dai_petcity.jpg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\products\\default-img.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\default-img.jpg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\sliders\\70k.webp",
+      "PackagePath": "staticwebassets\\images\\sliders\\70k.webp"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\sliders\\BO.webp",
+      "PackagePath": "staticwebassets\\images\\sliders\\BO.webp"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\sliders\\MiY.webp",
+      "PackagePath": "staticwebassets\\images\\sliders\\MiY.webp"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\sliders\\Socola.webp",
+      "PackagePath": "staticwebassets\\images\\sliders\\Socola.webp"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\sliders\\slider-1.png",
+      "PackagePath": "staticwebassets\\images\\sliders\\slider-1.png"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\sliders\\slider-2.png",
+      "PackagePath": "staticwebassets\\images\\sliders\\slider-2.png"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\sliders\\slider-3.png",
+      "PackagePath": "staticwebassets\\images\\sliders\\slider-3.png"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\images\\sliders\\slider-4.png",
+      "PackagePath": "staticwebassets\\images\\sliders\\slider-4.png"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.css.map",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.css.map"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\less\\extras.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\extras.less"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\spinning.less"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\scss\\_extras.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_extras.scss"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Bai2\\wwwroot\\vendor\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BAI2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BAI2.props",
+      "PackagePath": "build\\BAI2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BAI2.props",
+      "PackagePath": "buildMultiTargeting\\BAI2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BAI2.props",
+      "PackagePath": "buildTransitive\\BAI2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
